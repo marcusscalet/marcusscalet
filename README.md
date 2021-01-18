@@ -2,10 +2,10 @@
 
 - 🔭 Backend Developer at GFT :rocket:
 
-- 🌱 I love writing nicely clean and maintainable code, working with other people on solving problems and learning new things along the way.
+- 🌱 Practitioner of writing nicely, clean and maintainable code. I enjoy working with other people on solving problems and learning new things along the way.
 Still trying to learn all that I can about Java universe! :coffee:
 
-- 💬 Ask me about anything, I'll be glad to help;
+- 💬 Ask me about anything! I'll be glad to help!
 ---
 
 ### 🔧 Technologies & Tools
