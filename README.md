@@ -38,4 +38,3 @@ Still trying to learn all that I can about Java universe! :coffee:
 
 
 ---
-![](https://visitor-badge.glitch.me/badge?page_id=marcusscalet.marcusscalet)
